@@ -1,0 +1,7 @@
+Replace this file with the text copy-pasted from one of the articles included in the review.
+We cannot include them here for copyright reasons.
+The text for each article should be in one corresponding file, and they should all be named "01.txt", "02.txt", "03.txt", etc., up to "63.txt". 
+Notice that the leading zero for the first ten articles is required.
+
+If you do not want to do this manually, please write an email to the corresponding author and they will be happy to share with you 
+a zip file containing all txt files that need to be inserted into this folder. The email of the corresponding author is in the published version of this paper
